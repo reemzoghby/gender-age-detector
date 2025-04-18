@@ -1,0 +1,5 @@
+UTKFace/
+*.h5
+__pycache__/
+*.pyc
+.env
